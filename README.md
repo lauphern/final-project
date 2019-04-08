@@ -1,6 +1,6 @@
 # Time 4 Time
 
-### MERN stack
+##### MERN stack
 
 Final project at Ironhack's full-stack web development bootcamp.
 
