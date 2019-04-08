@@ -12,23 +12,23 @@ Features:
 
 We build or project with following products:
 
---Backend:
-  JavaScript
-  Node.js, Express.js
-  MongoDB, Mongoose
-  Authentication with Express sessions
-  Cors
-  Nodemailer
-  Photo upload with Multer
---Frontend
-  React.js, JavaScript
-  Pusher's Api for live chat
-  Libraries like moment and social share
-  Bulma
-  Axios (backend and frontend communications)
+--Backend:  
+  JavaScript  
+  Node.js, Express.js  
+  MongoDB, Mongoose  
+  Authentication with Express sessions  
+  Cors  
+  Nodemailer  
+  Photo upload with Multer  
+--Frontend  
+  React.js, JavaScript  
+  Pusher's Api for live chat  
+  Libraries like moment and social share  
+  Bulma  
+  Axios (backend and frontend communications)  
 
-In the app you can:
--Publish an offer
--See open offers, user's profile, contact other users with live chat
--Apply for an offer and notifications by email
--User dashboard: history of offers, history of petitions, chat, profile, profile settings
+In the app you can:  
+-Publish an offer  
+-See open offers, user's profile, contact other users with live chat  
+-Apply for an offer and notifications by email  
+-User dashboard: history of offers, history of petitions, chat, profile, profile settings  
