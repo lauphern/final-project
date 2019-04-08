@@ -1,39 +1,34 @@
-# final-project
+# Time 4 Time
 
-Time 4 time
+# MERN stack
 
-This is our awesone final project for Ironhack's bootcamp.
+Final project at Ironhack's full-stack web development bootcamp.
 
 In our project, you can share time with other people and accumulate time for some fun activities. No money involved, just time!
 
-For example, 
-Maria offers 2 hour for her time and teach abouth how to be a better person
-Jen offers 1 hour for her time and teach how to cook awesome food
-Maria and Jen connected, talking about each other and win time for another offers and activities!
+For example, Manouk can repair bikes, so she posts an offer to teach someone how to do it in 2 hours. Luis is new to Amsterdam and he needs to improve his knowledge about bicycles, so he applies to Manouk's offer and waits for her approval. He can do so because he got 2 hours to spend when he signed up, so he can get started in the platform. When Manouk approves his petition, she will gain 2 hours and he will pay the same amount, both user's "time wallets" being updated.
 
 Features:
 
 We build or project with following products:
 
 --Backend:
-  Javascript
-  Mongo DB for database
-  Authentication with sessions
+  JavaScript
+  Node.js, Express.js
+  MongoDB, Mongoose
+  Authentication with Express sessions
   Cors
-  Express for backend routing
-  Nodemailer (we sent pretty nice emails to our collaborators)
-  Photo upload
+  Nodemailer
+  Photo upload with Multer
 --Frontend
-  Pusher's Api for live chat with other people
-  Frontend with react and libraries like Moment, social share, multer 
-  Bulma <3
+  React.js, JavaScript
+  Pusher's Api for live chat
+  Libraries like moment and social share
+  Bulma
   Axios (backend and frontend communications)
-  A lots of coffee and love <3
 
 In the app you can:
 -Publish an offer
--See open offers, author's offer profile, contact author's with live chat
+-See open offers, user's profile, contact other users with live chat
 -Apply for an offer and notifications by email
--Manage your time requests, see your dashboard, and history of petitions
-
-
+-User dashboard: history of offers, history of petitions, chat, profile, profile settings
